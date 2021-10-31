@@ -1,6 +1,8 @@
 Hébergeur FiveM Vraiment pas chers c'est ici -> http://fiveheberg.fr/ <br>
 Discord de FiveHeberg.fr -> https://discord.gg/M7dxBymgVH
 
+Vidéo d'installation: https://www.youtube.com/watch?v=GIZQn3fxoS8
+
 <img src="https://i.goopics.net/Gda8p.png">
 
 Aujourd'hui je décide de Leak un ancien site web que j'avais développé pour GrandParisRP
