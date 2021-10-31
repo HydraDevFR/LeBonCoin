@@ -16,7 +16,7 @@ Configurer vos donnés mysql dans le fichier de configuration suivant:
 LeBonCoin\configuration\connect.php
 
 
-PS: Merci de ne pas retirer les copyrights
+PS: Merci de ne pas retirer les copyrights & je vous informe pas de nouvelle MAJ
 Bonne journée
 
 <img src="https://i.goopics.net/0OKmw.png">
